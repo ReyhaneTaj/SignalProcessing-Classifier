@@ -5,7 +5,7 @@ This repository explores signal classification using the **RML2016.10a** dataset
 ## Approaches
 
 1. **Raw Signal Classification (1D-CNN)**
-   - Processed signals with Signal-to-Noise Ratio (SNR) of 0.
+   - Processed signals with Signal-to-Noise Ratio (SNR) of 18.
    - Achieved test accuracy of ~75-77%.
 
 2. **Feature-Based Classification**
